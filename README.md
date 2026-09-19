@@ -23,3 +23,9 @@ O sistema possui as seguintes funcionalidades:
 ## Objetivo
 
 O objetivo deste projeto é ajudar pequenos comerciantes que não precisam de sistemas grandes e complexos, oferecendo apenas as funções básicas necessárias para o controle de produtos e estoque.
+
+
+## Conceitos de POO
+Além das funcionalidades do sistema, o projeto teve como foco principal a aplicação dos conceitos de Programação Orientada a Objetos (POO), como encapsulamento, herança, abstração e polimorfismo.
+
+Esses conceitos foram utilizados na organização das classes e componentes do sistema, buscando tornar o código mais organizado, reutilizável e de fácil manutenção.
